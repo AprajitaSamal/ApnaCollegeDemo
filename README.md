@@ -1,3 +1,3 @@
 # ApnaCollegeDemo
 First GitRepo
-Author- Aprajita Samal
+Author- Aprajita Samal (ApnaCollege)
